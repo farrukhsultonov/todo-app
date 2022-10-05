@@ -12,4 +12,4 @@ Simple todo app created using electron. User has the ability to add a reminder t
     <td> <img src="/image/create.png" alt="Create Page"> </td>
     <td> <img src="/image//todo.png" alt="Example of todo"> </td>
   </tr>
-</table>
+</table># todo-app
