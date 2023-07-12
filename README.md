@@ -1,7 +1,7 @@
 ## TODO APP
 
 ## INTRODUCTION
-Simple todo app created using electron. User has the ability to add a reminder to them-selved of their task. They can add and delete their tasks. 
+Simple todo app created using electron. User has the ability to add a reminder to them-selves of their task. They can add and delete their tasks. 
 
 ## To use the app, clone todo app, run npm i, finally run npm start. The app will look like...
 
